@@ -3,6 +3,7 @@ I developed a high-performance sheet-metal motor mount specifically for NEMA17 s
 
 Objectives for development of this sheetmetal part are:
 - increased version compatibility [V-Slot-Wheels-Version; MGN9H-Rail-Version; MGN12H-Rail-Version]
+- designed for Nema17x60mm works also with shorter models of Nema17 Steppers
 - cost-efficient manufacturing
   - sheetmetal design
     - excellent material utilization
@@ -15,6 +16,7 @@ Objectives for development of this sheetmetal part are:
 - increased rigidty
   - 20x better rigitdy/Youngs Modulus
   - deviation in the hundredths to tenth mm range
+- designed to work with idlers instead of flange bearing to prevent belts from slipping/drivting
 
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
 
