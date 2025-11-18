@@ -25,6 +25,8 @@ CAD-Files are available [here](./CAD).
 # Drawing and Template
 Drawing-Files are available [here](./drawings).
 
+<img src="./pictures/ASBLY_Y_KIN.jpg" alt="ASBLY_Y_KIN" width="300" />
+
 # Genereal Bill of Materials (BOM)
 Tools:
 - M3/M4 Drill
@@ -45,7 +47,7 @@ Assembly Parts:
   - 4x M3x8
   - 1x M4x30
   - 8x M3 Washer
-  - 2x M4 Washer (i ditched the 6x4x11 spacer sleeve and used instead many M4 Wahshers see [# Reference Pictures]
+  - 2x M4 Washer (i ditched the 6x4x11 spacer sleeve and used instead many M4 Wahshers see [Reference Pictures]
 - 4mm aluminium sheetmetal (main-/top-body) see [here](./CAD) or [here](./drawings).
 - 1.5mm aluminium sheetmetal see also [here](./CAD) or [here](./drawings).
 
