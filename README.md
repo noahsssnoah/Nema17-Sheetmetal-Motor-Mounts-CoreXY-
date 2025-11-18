@@ -77,7 +77,7 @@ Deviation profile shows stress distribution from sheer forces over the spacer sl
 <img src="./pictures/iso_view_3_with_belts.jpg" alt="iso_view_3_with_belts" width="300" />
 
 #
-**This project is a user modification based on DuEnder by Sergei Irbis.**
+**This project is a user modification for DuEnder by Sergei Irbis.**
 
 DuEnder Discord: (https://discord.com/invite/ae44FHv786)
 
