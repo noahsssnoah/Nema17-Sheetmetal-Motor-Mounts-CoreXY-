@@ -28,7 +28,8 @@ CAD-Files are available [here](./CAD).
 # Reference Pictures
 
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
-
+<img src="./pictures/iso_view_2_with_belts.jpg" alt="iso_view_2_with_belts" width="300" />
+<img src="./pictures/iso_view_3_with_belts.jpg" alt="iso_view_3_with_belts" width="300" />
 
 **This project is a user modification based on DuEnder by Sergei Irbis.**
 
