@@ -19,11 +19,40 @@ Objectives for development of this sheetmetal part are:
 - designed to work with idlers instead of flange bearing to prevent belts from slipping/drifting
 - lighter motor mount design lowers the center of mass, which positivly influences [Input-Shaping](https://github.com/Frix-x/klippain-shaketune) results
 
+# CAD
+CAD-Files are available [here](./CAD).
+
 # Drawing and Template
 Drawing-Files are available [here](./drawings).
 
-# CAD
-CAD-Files are available [here](./CAD).
+# Genereal Bill of Materials (BOM)
+Tools:
+- M3/M4 Drill
+- M3/M4 Threading Tool
+
+Assembly Parts:
+- Nema17 Stepper motor
+- GT2 20T Pulley
+- 2x GT2 20T Idler (no teeth)
+- MF 84 ZZ Flange Bearing (comes with Ender 3 V2; *Ender 3 may be diffrent!*)
+- Spacer Sleeves
+  - 5x 6x4x22 (inner- x outer- x length) -diameter
+  - 1x 6x4x11 (inner- x outer- x length) -diameter
+- Cylinder head screws
+  - 4x M3x6
+  - 4x M5x16
+  - 6x M3x30
+  - 4x M3x8
+  - 1x M4x30
+  - 8x M3 Washer
+  - 2x M4 Washer (i ditched the 6x4x11 spacer sleeve and used instead many M4 Wahshers see [# Reference Pictures]
+- 4mm aluminium sheetmetal (main-/top-body) see [here](./CAD) or [here](./drawings).
+- 1.5mm aluminium sheetmetal see also [here](./CAD) or [here](./drawings).
+
+# Manufacturing-tips
+- holes in top-plate can/should be al little bigger than the ones from the main-body so screws don't get misaligned during assembly
+  - also neutralisies sheer force on screws
+**Parts and Drawing going to be updated by me soon**
 
 # Reference Pictures
 
