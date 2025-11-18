@@ -17,6 +17,7 @@ Objectives for development of this sheetmetal part are:
   - 20x better rigitdy/Youngs Modulus
   - deviation in the hundredths to tenth mm range
 - designed to work with idlers instead of flange bearing to prevent belts from slipping/drifting
+- lighter motor mount design lowers the center of mass, which positivly influences [Input-Shaping](https://github.com/Frix-x/klippain-shaketune) results
 
 # Drawing and Template
 Drawing-Files are available [here](./drawings).
