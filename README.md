@@ -57,7 +57,9 @@ Assembly Parts:
 **Parts and Drawing going to be updated by me soon**
 
 # Deviation Profile
-<img src="./pictures/Bild1.png" alt="Bild1" width="300" />
+<img src="./pictures/deviation_side_profile_1.png" alt="deviation_side_profile_1" width="300" />
+<img src="./pictures/deviation_profile_iso_1.png" alt="deviation_profile_iso_1" width="300" />
+<img src="./pictures/deviation_profile_bottom_1.png" alt="deviation_profile_bottom_1" width="300" />
 
 
 # Reference Pictures
