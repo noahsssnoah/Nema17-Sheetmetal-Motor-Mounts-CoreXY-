@@ -31,6 +31,8 @@ Drawing-Files are available [here](./drawings).
 Tools:
 - M3/M4 Drill
 - M3/M4 Threading Tool
+- Press Brake/Bending Machine
+- saw
 
 Assembly Parts:
 - Nema17 Stepper motor
@@ -57,6 +59,8 @@ Assembly Parts:
 **Parts and Drawing going to be updated by me soon**
 
 # Deviation Profile
+Deviation profile shows stress distribution from sheer forces over the spacer sleeves as well as where deformations is happening.
+Deviation is scaled to factor 100 to actually see deformation.
 <img src="./pictures/deviation_side_profile_1.png" alt="deviation_side_profile_1" width="300" />
 <img src="./pictures/deviation_profile_iso_1.png" alt="deviation_profile_iso_1" width="300" />
 <img src="./pictures/deviation_profile_bottom_1.png" alt="deviation_profile_bottom_1" width="300" />
