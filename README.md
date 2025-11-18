@@ -56,6 +56,10 @@ Assembly Parts:
   - also neutralisies sheer force on screws
 **Parts and Drawing going to be updated by me soon**
 
+# Deviation Profile
+<img src="./pictures/Bild1.png" alt="Bild1" width="300" />
+
+
 # Reference Pictures
 
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
