@@ -19,7 +19,12 @@ Objectives for development of this sheetmetal part are:
 - designed to work with idlers instead of flange bearing to prevent belts from slipping/drifting
 
 # Drawing and Template
-Files are available [here](./drawings).
+Drawing-Files are available [here](./drawings).
+
+# CAD
+CAD-Files are available [here](./CAD).
+
+# Reference Pictures
 
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
 
