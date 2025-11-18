@@ -12,5 +12,7 @@ Objectives for development of this sheetmetal part are:
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
 
 **This project is a user modification based on DuEnder by Sergei Irbis.**
+
 DuEnder Discord: (https://discord.com/invite/ae44FHv786)
+
 Sergei's YT-Channel: (https://www.youtube.com/@Irbis3D)
