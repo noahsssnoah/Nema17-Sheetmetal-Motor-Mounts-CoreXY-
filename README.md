@@ -1,3 +1,5 @@
+*Exclaimer: Designed for 4040 Profiles, may work with 4020 profiles.*
+
 # Nema17-Sheetmetal-Motor-Mounts-CoreXY-
 I developed a high-performance sheet-metal motor mount specifically for NEMA17 stepper motors in CoreXY 3D printers. The design delivers maximum rigidity to minimize deformation and significantly improves precision compared to typical 3D-printed mounts. Its aluminum surface enhances thermal performance by enabling effective heat dissipation and acting as a thermal buffer. The mount is engineered as a compact assembly for straightforward, cost-efficient manufacturing, combining precision, durability, and practicality.
 
