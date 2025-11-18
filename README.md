@@ -16,7 +16,7 @@ Objectives for development of this sheetmetal part are:
 - increased rigidty
   - 20x better rigitdy/Youngs Modulus
   - deviation in the hundredths to tenth mm range
-- designed to work with idlers instead of flange bearing to prevent belts from slipping/drivting
+- designed to work with idlers instead of flange bearing to prevent belts from slipping/drifting
 
 <img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" width="300" />
 
