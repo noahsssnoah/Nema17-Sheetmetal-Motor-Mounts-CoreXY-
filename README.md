@@ -25,6 +25,8 @@ CAD-Files are available [here](./CAD).
 # Drawing and Template
 Drawing-Files are available [here](./drawings).
 
+*Note:* Drawing only includes A-Stepper Mount, as both mounts are symmetrical. Manufacture for A or B Stepper is determined by direction/side of bending.
+
 <img src="./pictures/ASBLY_Y_KIN.jpg" alt="ASBLY_Y_KIN" width="300" />
 
 # Genereal Bill of Materials (BOM)
