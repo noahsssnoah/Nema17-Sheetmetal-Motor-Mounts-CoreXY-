@@ -9,4 +9,4 @@ Objectives for development of this sheetmetal part are:
 - cost effective manufacturing
 - no CNC machines needed (e.g. opportunity to manufacture in your garage)
 
-<img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" style="zoom:50%;" />
+<img src="./pictures/iso_view_1_no_belts.jpg" alt="iso_view_1_no_belts" style="zoom:10%;" />
